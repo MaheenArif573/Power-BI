@@ -52,7 +52,7 @@ This page provides a high-level summary of business performance.
 
 📷 **Dashboard Preview:**
 
-![Page 1 Dashboard](page1.png)
+![Page 1 Dashboard](Sales_Overview.png)
 
 ---
 
@@ -73,7 +73,7 @@ This page focuses on customer behavior and geographic performance.
 
 📷 **Dashboard Preview:**
 
-![Page 2 Dashboard](page2.png)
+![Page 2 Dashboard](Customer_and_Location_Overview.png)
 
 ---
 
@@ -89,11 +89,11 @@ This page focuses on customer behavior and geographic performance.
 
 ## 📂 Files in this Repository
 
-AmazonSalesDashboard.pbix
-amazon_sales_data_2025.csv
-Sales_Overview.png
-Customer_and_Location_Overview.png
-README.md
+- AmazonSalesDashboard.pbix
+- amazon_sales_data_2025.csv
+- Sales_Overview.png
+- Customer_and_Location_Overview.png
+- README.md
 
 ---
 

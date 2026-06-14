@@ -1,7 +1,7 @@
 # 📊 CFPB Consumer Complaints Dashboard
 ### A Power BI Portfolio Project
 
-![Dashboard Preview](page 1.png)
+![Dashboard Preview](page1.png)
 
 ---
 
@@ -248,7 +248,7 @@ RETURN DIVIDE(StateComplaints - NationalAvg, NationalAvg)
 ## 📊 Dashboard Pages
 
 ### Page 1 — Executive Summary
-![Executive Summary](page 1.png)
+![Executive Summary](page1.png)
 
 High-level overview with KPI cards, complaint trend line, resolution breakdown donut chart, top products bar chart, and USA filled map.
 
@@ -257,7 +257,7 @@ High-level overview with KPI cards, complaint trend line, resolution breakdown d
 ---
 
 ### Page 2 — Product & Sub-Product Analysis
-![Product Analysis](page 2.png)
+![Product Analysis](page2.png)
 
 Deep dive into which financial products generate the most complaints, with a performance scorecard using conditional formatting.
 
@@ -266,7 +266,7 @@ Deep dive into which financial products generate the most complaints, with a per
 ---
 
 ### Page 3 — Issue Deep Dive
-![Issue Analysis](page 3.png)
+![Issue Analysis](page3.png)
 
 Explores the specific issues consumers raise, with a year-trending matrix and resolution quality breakdown by issue type.
 
@@ -275,7 +275,7 @@ Explores the specific issues consumers raise, with a year-trending matrix and re
 ---
 
 ### Page 4 — Response & Resolution Analysis
-![Response Analysis](page 4.png)
+![Response Analysis](page4.png)
 
 Analyzes how effectively complaints are resolved, including timely response trends and resolution type distribution by product.
 
@@ -284,7 +284,7 @@ Analyzes how effectively complaints are resolved, including timely response tren
 ---
 
 ### Page 5 — Geographic Analysis
-![Geographic Analysis](page 5.png)
+![Geographic Analysis](page5.png)
 
 State-level complaint distribution with choropleth map, top states ranking, and a full state performance scorecard.
 
@@ -293,7 +293,7 @@ State-level complaint distribution with choropleth map, top states ranking, and 
 ---
 
 ### Page 6 — Time Intelligence & Trends
-![Time Trends](page 6.png)
+![Time Trends](page6.png)
 
 Time-series analysis including complaint volume trends, YoY growth, monthly seasonality patterns, and product growth over time.
 
